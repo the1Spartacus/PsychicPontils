@@ -1,0 +1,9 @@
+C:\Users\Thulani\Downloads\psychic.pontils\bin\Debug\netcoreapp3.1\psychic.pontils.deps.json
+C:\Users\Thulani\Downloads\psychic.pontils\bin\Debug\netcoreapp3.1\psychic.pontils.dll
+C:\Users\Thulani\Downloads\psychic.pontils\bin\Debug\netcoreapp3.1\psychic.pontils.pdb
+C:\Users\Thulani\Downloads\psychic.pontils\obj\Debug\netcoreapp3.1\psychic.pontils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thulani\Downloads\psychic.pontils\obj\Debug\netcoreapp3.1\psychic.pontils.AssemblyInfoInputs.cache
+C:\Users\Thulani\Downloads\psychic.pontils\obj\Debug\netcoreapp3.1\psychic.pontils.AssemblyInfo.cs
+C:\Users\Thulani\Downloads\psychic.pontils\obj\Debug\netcoreapp3.1\psychic.pontils.csproj.CoreCompileInputs.cache
+C:\Users\Thulani\Downloads\psychic.pontils\obj\Debug\netcoreapp3.1\psychic.pontils.dll
+C:\Users\Thulani\Downloads\psychic.pontils\obj\Debug\netcoreapp3.1\psychic.pontils.pdb
